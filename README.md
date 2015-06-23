@@ -1,2 +1,2 @@
 # lab
-Various coding experiments and demos
+Various coding experiments and demos.
